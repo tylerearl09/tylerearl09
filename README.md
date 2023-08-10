@@ -16,7 +16,7 @@
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/CurrencyConversion.gif" width="250" height="400" />
 
 # Speed Game
-<img src="" width="250" height="400" />
+<img src="https://github.com/tylerearl09/tylerearl09/blob/main/Animation.gif"/>
 
 <!--
 **tylerearl09/tylerearl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
