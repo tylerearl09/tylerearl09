@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is [Tyler Earl](tyler.earl09@gmail.com)
+### My name is Tyler Earl
 ### I'm a Pathways Intern at [Hill Air Force Base](https://www.hill.af.mil/)
 
 ### My top 4 Technologies
@@ -9,6 +9,11 @@
 ### My Github status
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerearl09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/tylerearl09)
 
+# Number Guessing App
+<img src="https://github.com/tylerearl09/tylerearl09/blob/main/GuessingGame.gif" width="250" height="400" />
+
+# Currency Conversion App
+<img src="" width="250" height="400" />
 
 <!--
 **tylerearl09/tylerearl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
