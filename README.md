@@ -20,6 +20,10 @@
 # Speed Game
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/Animation.gif"/>
 
+# Connect 4
+<p>https://github.com/tylerearl09/Connect4</p>
+<img src= "https://github.com/tylerearl09/tylerearl09/blob/main/Connect%204.png"/>
+
 <!--
 **tylerearl09/tylerearl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
