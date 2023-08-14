@@ -19,10 +19,16 @@
 
 # Speed Game
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/Animation.gif"/>
+<p>https://github.com/tylerearl09/speed-game5</p>
+This was a group project I worked on. I helped with the authentication for the login, i.e. using a SHA256 hash in addition to a salt for the password.
+I also helped to implement the card shuffling logic and implementing the rules for play.
 
 # Connect 4
 <p>https://github.com/tylerearl09/Connect4</p>
 <img src= "https://github.com/tylerearl09/tylerearl09/blob/main/Connect%204.png"/>
+The basic code for this project comes from a React tutorial found here: https://legacy.reactjs.org/tutorial/tutorial.html
+The tutorial was an introduction to React and created a tic-tac-toe game. I modified this code in order to create the 
+Connect 4 game and implemented a high score table as well.
 
 <!--
 **tylerearl09/tylerearl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
