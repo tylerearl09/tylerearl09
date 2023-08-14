@@ -17,6 +17,9 @@
 ## Currency Conversion App
 <p>https://github.com/tylerearl09/Android-Final</p>
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/CurrencyConversion.gif" width="250" height="400" />
+<br/>
+<br/>
+<br/>
 
 # React Web apps
 ## Connect 4
