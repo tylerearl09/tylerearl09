@@ -9,17 +9,17 @@
 ### My Github status
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerearl09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/tylerearl09)
 
-## Android App Development
-# Number Guessing App
+# Android App Development
+## Number Guessing App
 <p>https://github.com/tylerearl09/NumberGuessing</p>
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/GuessingGame.gif" width="250" height="400" />
 
-# Currency Conversion App
+## Currency Conversion App
 <p>https://github.com/tylerearl09/Android-Final</p>
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/CurrencyConversion.gif" width="250" height="400" />
 
-## React Web apps
-# Connect 4
+# React Web apps
+## Connect 4
 <p>https://github.com/tylerearl09/Connect4</p>
 <img src= "https://github.com/tylerearl09/tylerearl09/blob/main/Connect%204.png"/>
 The basic code for this project comes from a React tutorial found here: https://legacy.reactjs.org/tutorial/tutorial.html
@@ -27,7 +27,7 @@ The tutorial was an introduction to React and created a tic-tac-toe game. I modi
 Connect 4 game and implemented a high score table as well.
 
 ## MERN stack web app
-# Speed Game
+### Speed Game
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/Animation.gif"/>
 <p>https://github.com/tylerearl09/speed-game5</p>
 This was a group project I worked on. I helped with the authentication for the login, i.e. using a SHA256 hash in addition to a salt for the password.
