@@ -9,7 +9,7 @@
 ### My Github status
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerearl09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/tylerearl09)
 
-##Android App Development
+## Android App Development
 # Number Guessing App
 <p>https://github.com/tylerearl09/NumberGuessing</p>
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/GuessingGame.gif" width="250" height="400" />
@@ -26,7 +26,7 @@ The basic code for this project comes from a React tutorial found here: https://
 The tutorial was an introduction to React and created a tic-tac-toe game. I modified this code in order to create the 
 Connect 4 game and implemented a high score table as well.
 
-##MERN stack web app
+## MERN stack web app
 # Speed Game
 <img src="https://github.com/tylerearl09/tylerearl09/blob/main/Animation.gif"/>
 <p>https://github.com/tylerearl09/speed-game5</p>
