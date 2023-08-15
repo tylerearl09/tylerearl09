@@ -27,7 +27,8 @@
 <img src= "https://github.com/tylerearl09/tylerearl09/blob/main/Connect%204.png"/>
 The basic code for this project comes from a React tutorial found here: https://legacy.reactjs.org/tutorial/tutorial.html
 The tutorial was an introduction to React and created a tic-tac-toe game. I modified this code in order to create the 
-Connect 4 game and implemented a high score table as well.
+Connect 4 game and implemented a high score table as well. This project was my intro to React and the MERN stack.
+I learned the basics of React, and how to connect the frontend to a Mongo database and Node server.
 
 ## MERN stack web app
 ### Speed Game
@@ -35,6 +36,9 @@ Connect 4 game and implemented a high score table as well.
 <p>https://github.com/tylerearl09/speed-game5</p>
 This was a group project I worked on. I helped with the authentication for the login, i.e. using a SHA256 hash in addition to a salt for the password.
 I also helped to implement the card shuffling logic and implementing the rules for play.
+This project expanded my knowledge exponentially. The biggest thing was learning about web sockets, specifically socket.io, but I also learned
+about masking information sent to the room so that only certain users can see information that they are supposed to, and also rendering that
+information appropriately.
 
 <!--
 **tylerearl09/tylerearl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
