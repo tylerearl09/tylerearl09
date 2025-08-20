@@ -27,6 +27,9 @@
 ## Speed Game
 <p>https://github.com/tylerearl09/speed-game5</p>
 
+## AlgoGauge
+<p>https://github.com/tylerearl09/AlgoGauge</p>
+
 
 <!--
 **tylerearl09/tylerearl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
